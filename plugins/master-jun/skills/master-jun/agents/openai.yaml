@@ -1,0 +1,4 @@
+interface:
+  display_name: "Master Jun"
+  short_description: "交代起课、详解盘理、逐题断验并作命事课综合"
+  default_prompt: "Use $master-jun to assess my information first, explain the casting logic, answer each subquestion, and finish with a full 命—事—课 synthesis."
