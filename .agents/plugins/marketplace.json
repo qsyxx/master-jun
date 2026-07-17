@@ -1,0 +1,20 @@
+{
+  "name": "master-jun",
+  "interface": {
+    "displayName": "Master Jun"
+  },
+  "plugins": [
+    {
+      "name": "master-jun",
+      "source": {
+        "source": "local",
+        "path": "./plugins/master-jun"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Lifestyle"
+    }
+  ]
+}
