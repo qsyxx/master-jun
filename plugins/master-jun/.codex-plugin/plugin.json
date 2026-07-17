@@ -1,0 +1,22 @@
+{
+  "name": "master-jun",
+  "version": "0.1.0+codex.20260717044958",
+  "description": "Auditable Eastern divination with Bazi-aware event readings and deterministic casting tools.",
+  "author": {
+    "name": "Master Jun Contributors"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Master Jun",
+    "shortDescription": "\u5ba2\u89c2\u8d77\u8bfe\u3001\u547d\u4e8b\u8bfe\u5408\u53c2\uff0c\u5e76\u4fdd\u7559\u53ef\u590d\u76d8\u7684\u539f\u65ad\u3002",
+    "longDescription": "Master Jun combines verified natal-chart context with Da Liuren, Xiao Liuren, Zhouyi, Meihua, Bazi and Zi Wei workflows. It exposes casting logic, handles fuzzy-time variants, compares multiple options consistently, and freezes consequential readings for later hit-or-miss review.",
+    "developerName": "Master Jun Contributors",
+    "category": "Lifestyle",
+    "capabilities": [
+      "Divination",
+      "Analysis",
+      "Comparison"
+    ],
+    "defaultPrompt": "\u8bf7\u7528 Master Jun \u6838\u9a8c\u4fe1\u606f\u3001\u4ea4\u4ee3\u8d77\u8bfe\u903b\u8f91\uff0c\u5e76\u4ee5\u547d\u2014\u4e8b\u2014\u8bfe\u5408\u53c2\u5ba2\u89c2\u65ad\u4e8b\u3002"
+  }
+}
